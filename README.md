@@ -123,4 +123,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **Aditya**.
+Developed by **Supriya**.
